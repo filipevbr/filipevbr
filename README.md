@@ -1,7 +1,7 @@
 ## 👋 Welcome to my profile 😁
 
 🎮 I'm passionate about technology and game development!   
-📌 Currently studying **C++**, **Unity**, and **Unreal Engine 5**    
+📌 Currently studying **C#**, **Unity**, and **Unreal Engine 5**    
 🚀 Exploring programming logic and game creation  
 📚 Following online courses and acquiring knowledge along the way
 
@@ -14,7 +14,7 @@
 ### **💡 About Me**
 
 - 🔍 Aiming to evolve in game development
-- 💻 Learning **C++** to deepen my game development skills  
+- 💻 Learning **C#** to deepen my game development skills  
 - 🕹️ Currently using **Unity** to develop 2D games for Android  
 - 🎯 Creating small projects to practice and build a portfolio
 
