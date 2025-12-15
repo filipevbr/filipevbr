@@ -1,8 +1,9 @@
-### Hi there, I'm Filipe! 👋
+### Olá, eu sou o Filipe! 👋
 
-I'm an **Analysis and Systems Development student** based in Brazil, focused on building a strong foundation in Software Engineering.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em construir uma base sólida em Engenharia de Software e resolver problemas reais com tecnologia.
 
-- 🎓 **Education:** Analysis and Systems Development at PUCPR (GPA 9.4/10).
-- 💻 **Current Stack:** Python (CLI & Automation), Git, Markdown.
-- 📚 **Currently Studying:** SQL & Database Structures.
-- 🎯 **Goal:** Looking for my first opportunity as an Intern (Estágio) in Tech Support, Data, or Dev.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na **PUCPR** (+ Cursos livres e estudo autodidata).
+- 💻 **Stack Atual:** Python (Automação & CLI), Git, Markdown.
+- 📚 **Estudando Agora:** SQL, Estrutura de Dados e Lógica de Programação.
+- 💼 **Áreas de Interesse:** Suporte Técnico, Automação e Dados.
+---
