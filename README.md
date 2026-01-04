@@ -4,5 +4,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Unive
 
 - 🎓 **Formação:** ADS **PUCPR** (+ Cursos livres e estudo autodidata).
 - 💻 **Stack Atual:** Python (Automação & CLI), Git, Markdown.
-- 📚 **Estudando:** SQL, Estrutura de Dados e Expansão das tecnologias que ja conheço.
+- 📚 **Estudando:** SQL, Estrutura de Dados e Expansão da Stack Atual.
 ---
