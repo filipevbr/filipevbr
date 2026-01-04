@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi, I'm Filipe Vaz! 👋 </h2>
+<h1> Hi, I'm Filipe Vaz! 👋 </h1>
 </div>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
@@ -9,7 +9,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Unive
 ---
 
 <div align="center">
-<h3> Um pouco mais sobre mim ⚡</h3>
+<h2> Um pouco mais sobre mim ⚡</h2>
 </div>
 
 * 🍰 **Empreendedor:** A vivência de gerir um negócio me ensinou o valor de cada recurso.
