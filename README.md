@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi, I'm Filipe! 👋 </h2>
+<h1> Hi, I'm Filipe! 👋 </h1>
 </div>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
