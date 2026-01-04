@@ -1,26 +1,22 @@
-### Hi, I'm Filipe Vaz! 👋
 <div align="center">
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
+<h2> Hi, I'm Filipe Vaz! 👋 </h2>
+</div>
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
 - 🎓 **Formação:** ADS **PUCPR** (+ Cursos livres e estudo autodidata).
 - 💻 **Stack Atual:** Python (Automação & CLI), Git, Markdown.
 - 📚 **Estudando:** SQL, Estrutura de Dados e Expansão da Stack Atual.
 ---
-</div>
-
-<br>
 
 <div align="center">
-  ### Um pouco mais sobre mim ⚡
-  
-  * 🍰 **Empreendedor:** A vivência de gerir um negócio me ensinou o valor de cada recurso.
-  * 🎵 **Compositor Amador:** Nas horas vagas, escrevo músicas. Acredito que a criatividade da arte ajuda na lógica do código.
-  * 🎮 **Gamer:** Fã de mundos abertos e narrativas complexas (Skyrim, AC).
-  * 📍 **Local:** Curitiba, Brasil.
-  ---
+<h3> Um pouco mais sobre mim ⚡</h3>
 </div>
 
-<br>
+* 🍰 **Empreendedor:** A vivência de gerir um negócio me ensinou o valor de cada recurso.
+* 🎵 **Compositor Amador:** Nas horas vagas, escrevo músicas. Acredito que a criatividade da arte ajuda na lógica do código.
+* 🎮 **Gamer:** Fã de mundos abertos e narrativas complexas (Skyrim, AC).
+* 📍 **Local:** Curitiba, Brasil.
+---
 
 <div align="center">
   <h3 align="center">Abaixo página com todos meus projetos:</h3>
