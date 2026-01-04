@@ -19,6 +19,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Unive
 ---
 
 <div align="center">
-  <h3 align="center">Gaveta de projetos:</h3>
+  <h2 align="center">Gaveta de projetos:</h2>
   <p align="center"><a href="https://github.com/filipevbr?tab=repositories" target="_blank"><img alt="Repositório" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/1064/1064613.png?w=360" target="_blank"></a></p>    
 </div>
