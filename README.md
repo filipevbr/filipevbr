@@ -1,9 +1,8 @@
-### Olá, eu sou o Filipe! 👋
+### Hi, I'm Filipe Vaz! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em construir uma base sólida em Engenharia de Software e resolver problemas reais com tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na **PUCPR** (+ Cursos livres e estudo autodidata).
+- 🎓 **Formação:** ADS **PUCPR** (+ Cursos livres e estudo autodidata).
 - 💻 **Stack Atual:** Python (Automação & CLI), Git, Markdown.
-- 📚 **Estudando Agora:** SQL, Estrutura de Dados e Lógica de Programação.
-- 💼 **Áreas de Interesse:** Suporte Técnico, Automação e Dados.
+- 📚 **Estudando:** SQL, Estrutura de Dados e Expansão das tecnologias que ja conheço.
 ---
