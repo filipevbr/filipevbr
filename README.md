@@ -11,7 +11,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Unive
 <h2 align="center">Um pouco mais sobre mim</h2>
 </div>
 
-* 🍰 **Empreendedor:** A vivência de gerir um negócio me ensinou o valor de cada recurso.
+* 🍰 **Empreendedor:** A vivência de gerir a 220 Tech Solutions me ensinou o valor de cada recurso e a importância da automação.
 * 🎵 **Compositor Amador:** Nas horas vagas, escrevo músicas. Acredito que a criatividade da arte ajuda na lógica do código.
 * 🎮 **Gamer:** Fã de mundos abertos e narrativas complexas.
 * 📍 **Local:** Curitiba, Brasil.
