@@ -7,7 +7,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Unive
 - 📚 **Estudando:** SQL, Estrutura de Dados e Expansão da Stack Atual.
 ---
 
-### ⚡ Um pouco mais sobre mim
+### Um pouco mais sobre mim ⚡
 
 * 🍰 **Empreendedor:** A vivência de gerir um negócio me ensinou o valor de cada recurso.
 * 🎵 **Compositor Amador:** Nas horas vagas, escrevo músicas. Acredito que a criatividade da arte ajuda na lógica do código.
