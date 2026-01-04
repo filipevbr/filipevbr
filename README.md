@@ -14,7 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Unive
 
 * 🍰 **Empreendedor:** A vivência de gerir um negócio me ensinou o valor de cada recurso.
 * 🎵 **Compositor Amador:** Nas horas vagas, escrevo músicas. Acredito que a criatividade da arte ajuda na lógica do código.
-* 🎮 **Gamer:** Fã de mundos abertos e narrativas complexas (Skyrim, AC).
+* 🎮 **Gamer:** Fã de mundos abertos e narrativas complexas.
 * 📍 **Local:** Curitiba, Brasil.
 ---
 
