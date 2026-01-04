@@ -1,12 +1,12 @@
 <div align="center">
-<h3> Hey up, I'm Filipe! 👋 </h3>
+<h2> Hi, I'm Filipe! 👋 </h2>
 </div>
 
----
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
 - 🎓 **Formação:** ADS **PUCPR** (+ Cursos livres e estudo autodidata).
 - 💻 **Stack Atual:** Python (Automação & CLI), Git, Markdown.
 - 📚 **Estudando:** SQL, Estrutura de Dados e Expansão da Stack Atual.
+
 ---
 
 <div align="center">
