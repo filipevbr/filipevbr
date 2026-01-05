@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
 - 🎓 **Formação:** ADS **PUCPR** (+ Cursos livres e estudo autodidata).
-- 💻 **Stack Atual:** Python (Automação & CLI), Git, Markdown.
+- 💻 **Stack Atual:** Python (Automação & CLI), Git, Docker, Markdown.
 - 📚 **Estudando:** SQL, Estrutura de Dados e Expansão da Stack Atual.
 
 <div align="center">
