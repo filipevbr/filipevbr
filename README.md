@@ -1,20 +1,38 @@
 <div align="center">
-<h1> Hi, I'm Filipe! 👋 </h1>
+  <h1>Hi, I'm Filipe! 👋</h1>
 </div>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica - PUC/PR!
-- 🎓 **Formação:** ADS **PUCPR** (+ Cursos livres e estudo autodidata).
-- 💻 **Stack Atual:** Python (Automação & CLI), Git, Docker, Markdown.
-- 📚 **Estudando:** SQL, Estrutura de Dados e Expansão da Stack Atual.
+### 🚀 Sobre mim
 
-<div align="center">
-<h2 align="center">Um pouco mais sobre mim</h2>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e apaixonado por entender como as coisas funcionam "debaixo do capô". 
+
+Minha jornada começou no Hardware, gerindo a **220 Tech Solutions**, onde aprendi na prática a importância da eficiência e gestão de recursos. Hoje, estou conectando esse conhecimento com Engenharia de Software para criar soluções robustas e automatizadas.
+
+* 🔭 **Atualmente focado em:** Automação de Infraestrutura e Containerização.
+* 💼 **Experiência:** Gestão de Hardware & Suporte Técnico.
+* ⚡ **Hobby:** Compositor amador (a lógica da música ajuda na lógica do código!) e Gamer.
+* 📍 **Local:** Curitiba, PR - Brasil.
+
+---
+
+### 🛠️ Tech Stack
+
+**Linguagens & Ferramentas que uso no dia a dia:**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank" />
 </div>
 
-* 🍰 **Empreendedor:** A vivência de gerir a 220 Tech Solutions me ensinou o valor de cada recurso e a importância da automação.
-* 🎵 **Compositor Amador:** Nas horas vagas, escrevo músicas. Acredito que a criatividade da arte ajuda na lógica do código.
-* 🎮 **Gamer:** Fã de mundos abertos e narrativas complexas.
-* 📍 **Local:** Curitiba, Brasil.
+<br>
+
+**📚 Meus Estudos Prioritários**
+
+* 🐳 **Docker**
+* 🗄️ **SQL & Persistência de Dados**
+* 🏗️ **Estrutura de Dados**
 
 <div align="center">
   <h2 align="center">Gaveta de projetos</h2>
