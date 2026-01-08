@@ -4,35 +4,13 @@
 
 ### 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e apaixonado por entender como as coisas funcionam "debaixo do capô". 
+Estudante de Análise e Desenvolvimento de Sistemas (PUCPR) com background em Hardware/Infraestrutura. Possuo uma base sólida em diagnóstico técnico e resolução de problemas. Atualmente, utilizo essa lógica para desenvolver automações e sistemas, com foco em Backend e regras de negócio.
 
-Minha jornada começou no Hardware, gerindo a **220 Tech Solutions**, onde aprendi na prática a importância da eficiência e gestão de recursos. Hoje, estou conectando esse conhecimento com Engenharia de Software para criar soluções robustas e automatizadas.
+### 🛠️ Foco de Atuação e Estudos
 
-* 🔭 **Atualmente focado em:** Automação de Infraestrutura e Containerização.
-* 💼 **Experiência:** Gestão de Hardware & Suporte Técnico.
-* ⚡ **Hobby:** Compositor amador (a lógica da música ajuda na lógica do código!) e Gamer.
-* 📍 **Local:** Curitiba, PR - Brasil.
-
----
-
-### 🛠️ Tech Stack
-
-**Linguagens & Ferramentas que uso no dia a dia:**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank" />
-</div>
-
-<br>
-
-**📚 Meus Estudos Prioritários**
-
-* 🐳 **Docker**
-* 🗄️ **SQL & Persistência de Dados**
-* 🏗️ **Estrutura de Dados**
+* **Linguagens:** Python (Automação e Scripts), SQL.
+* **Engenharia de Software:** Orientação a Objetos (POO), Arquitetura MVC e Estruturas de Dados.
+* **Infraestrutura:** Linux (Terminal), Docker e Git.
 
 <div align="center">
   <h2 align="center">Gaveta de projetos</h2>
