@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (PUCPR) com background em Ha
 
 ### 🛠️ Foco de Atuação e Estudos
 
-* **Linguagens:** Python (Automação e Scripts), SQL.
+* **Linguagens:** Python, SQL.
 * **Engenharia de Software:** Orientação a Objetos (POO), Arquitetura MVC e Estruturas de Dados.
 * **Infraestrutura:** Linux (Terminal), Docker e Git.
 
